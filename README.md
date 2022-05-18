@@ -6,7 +6,7 @@ I am a Full Stack Software Engineer, my work is primarily in JavaScript.
 
 Skills: JavaScript / Node.Js / MongoDB / React
 
-- 🔭 I’m currently working on (linkfree.eddiehub.io)
+- 🔭 I’m currently working on [linkfree](linkfree.eddiehub.io)
 - 💬 Ask me about [100Devs](leonnoel.com/100devs) 
 - 📫 How to reach me: emah84@gmail.com 
 
