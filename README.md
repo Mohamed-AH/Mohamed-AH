@@ -8,11 +8,11 @@ I am a Full Stack Software Engineer, my work is primarily in JavaScript.
 
 Skills: JavaScript / Node.Js / MongoDB / React
 
-
-
-- 🔭 I’m currently working on [linkfree](linkfree.eddiehub.io)
-- 💬 Ask me about [100Devs](leonnoel.com/100devs) 
-- 📫 How to reach me: emah84@gmail.com 
+* 🚀  I'm currently working on [Anecdotal](http://anecdotalnode@herokuapp.com)
+* 🖥️  See my portfolio at [https://webdevcorner.netlify.app](http://webdevcorner.netlify.app)
+* 🧠  I'm learning Kubernetes
+* 💬 Ask me about [100Devs](leonnoel.com/100devs) 
+* ✉️  You can contact me at [emah84@gmail.com](mailto:emah84@gmail.com) 
 
 <h2>🤝 Let's stay connected!</h2>
 <div align="center">
