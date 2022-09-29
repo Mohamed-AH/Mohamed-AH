@@ -1,7 +1,7 @@
 <h2> Hi there 👋, I'm <a href="https://www.linkedin.com/in/mojed7/" target="_blank">Mohamed AH</a>    </h2>
 
 
-#### Software Engineer | JavaScript | Node.Js | MongoDB | React
+#### Software Engineer | JavaScript | Node.Js | AWS Devops 
 ![Software Engineer | JavaScript | Node.Js | MongoDB | React](https://i.imgur.com/EX0Cv4e.gif)
 
 I am a Full Stack Software Engineer, my work is primarily in JavaScript. 
@@ -10,7 +10,7 @@ Skills: JavaScript / Node.Js / MongoDB / React
 
 * 🚀  I'm currently working on [Anecdotal](http://anecdotalnode@herokuapp.com)
 * 🖥️  See my portfolio at [https://webdevcorner.netlify.app](http://webdevcorner.netlify.app)
-* 🧠  I'm learning Kubernetes
+* 🧠  I'm learning fast.ai
 * 💬 Ask me about [100Devs](leonnoel.com/100devs) 
 * ✉️  You can contact me at [emah84@gmail.com](mailto:emah84@gmail.com) 
 * PGP Key : https://pastebin.com/ZBHKUSxt
