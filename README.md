@@ -13,6 +13,7 @@ Skills: JavaScript / Node.Js / MongoDB / React
 * 🧠  I'm learning Kubernetes
 * 💬 Ask me about [100Devs](leonnoel.com/100devs) 
 * ✉️  You can contact me at [emah84@gmail.com](mailto:emah84@gmail.com) 
+* PGP Key : https://pastebin.com/ZBHKUSxt
 
 <h2>🤝 Let's stay connected!</h2>
 <div align="center">
