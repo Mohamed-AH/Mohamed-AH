@@ -8,7 +8,7 @@ I love building full stack web apps with nodejs and finding solutions that allow
 
 Skills: JavaScript / Node.js / React.js / Jenkins / Kubernetes / Amazon Web Services (AWS) 
 
-* 🚀  I'm currently working on [DevOps Poject : CI/CD with Git, Jenkins, Ansible, Docker & Kubernetes on AWS](https://www.notion.so/mojed/DevOps-Poject-CI-CD-with-Git-Jenkins-Ansible-Docker-Kubernetes-on-AWS-0697c540dc6e4911b60e817bf99125b0)
+* 🚀  I'm currently working on [ World cup live scores app](https://github.com/Aladdin4u/world-cup-2022)
 * 🧠  I'm learning fast.ai
 * 💬 Ask me about [100Devs](leonnoel.com/100devs) 
 * ✉️  You can contact me at [mojed@intigriti.me](mailto:mojed@intigriti.me) 
