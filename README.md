@@ -1,48 +1,56 @@
-<h2> Hi there 👋, I'm <a href="https://www.linkedin.com/in/mojed7/" target="_blank">Mohamed AH</a>    </h2>
+<h2 align="left">Hi there 👋, I'm <a href="https://www.linkedin.com/in/mojed7/" target="_blank">Mohamed AH</a></h2>
 
+<h3 align="left">Software Engineer | Full Stack Developer | DevOps Engineer</h3>
 
-#### Software Engineer | JavaScript | Node.Js | AWS Devops 
-![Software Engineer | JavaScript | Node.Js | MongoDB | React](https://i.imgur.com/brzbNQS.gif)
+![Software Engineer Banner](https://i.imgur.com/brzbNQS.gif)
 
-I love building full stack web apps with nodejs and finding solutions that allow developers to safely and securely deploy code to production, I am also interested in providing scalability and high availability for multiple applications using shared resources.
+I'm passionate about building full-stack web applications with Node.js and creating robust DevOps solutions. My focus is on developing and implementing scalable architectures that enable secure code deployment while ensuring high availability across multiple applications using shared resources.
 
-Skills: JavaScript / Node.js / React.js / Jenkins / Kubernetes / Amazon Web Services (AWS) 
+### 🔭 Current Work & Projects
+* 🚀 Developing [Allyment](https://allyment.netlify.app) - A social memory app to help remember and stay connected with new contacts
+* 🤖 Working on [AI Automation](https://github.com/Mohamed-AH/automation/) - Building automated solutions with AI
+* ⚡ Exploring Kubernetes and container orchestration
+* 📚 Contributing to [OpenProdkt Wiki](https://wiki.openprodkt.com/)
+* 💡 Active member of [100Devs](https://leonnoel.com/100devs/)
 
-* 🚀  I'm currently working on [ World cup live scores app](https://github.com/Aladdin4u/world-cup-2022)
-* 🧠  I'm learning fast.ai
-* 💬 Ask me about [100Devs](leonnoel.com/100devs) 
-* ✉️  You can contact me at [mojed@intigriti.me](mailto:mojed@intigriti.me) 
-* PGP Key : https://pastebin.com/ZBHKUSxt
+### 💻 Tech Stack
+- **Languages**: JavaScript, Python, Node.js
+- **Cloud & DevOps**: AWS, Oracle Cloud, Jenkins, Kubernetes
+- **Database Systems**: MongoDB
+- **Development Tools**: Git, Docker, CI/CD
 
-<h2>🤝 Let's stay connected!</h2>
+### 📫 Connect With Me
+- 📧 Email: [mojed@intigriti.me](mailto:mojed@intigriti.me)
+- 🔐 PGP Key: [View Key](https://pastebin.com/ZBHKUSxt)
+
+<h2>🤝 Let's Stay Connected!</h2>
 <div align="center">
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mojed7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Mohamed_Jeddah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Mohamed-AH)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/icloud.svg' alt='website' height='40'>](https://webdevcorner.netlify.app)  
-
+  <a href="https://www.linkedin.com/in/mojed7/">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg' alt='LinkedIn' height='40'>
+  </a>
+  <a href="https://twitter.com/Mohamed_Jeddah">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg' alt='Twitter' height='40'>
+  </a>
+  <a href="https://codepen.io/Mohamed-AH">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/codepen.svg' alt='CodePen' height='40'>
+  </a>
+  <a href="https://webdevcorner.netlify.app">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/icloud.svg' alt='Portfolio Website' height='40'>
+  </a>
 </div>
 
-<h2>🏆 Github Stats</h2>
-
-
+<h2>🏆 GitHub Stats</h2>
 <div align="center">
 <table>
 <tr>
 <td width="45%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-AH&show_icons=true&theme=black-ice&hide_border=true" alt="Mohamed-AH">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-AH&show_icons=true&theme=black-ice&hide_border=true" alt="Mohamed-AH's GitHub Streak">
 </td>
 <td width="45%">
- <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-AH&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api?username=Mohamed-AH&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" alt="Mohamed-AH's GitHub Stats">
 </table>
 </div>
 
-</td>
-</tr>
-
-![Profile views](https://gpvc.arturio.dev/Mohamed-AH)  
-
-
- 
 <p align="center">
-<img src="https://github.com/Mohamed-AH/jaas666/blob/main/gitartwork.svg" />
+<img src="https://github.com/Mohamed-AH/jaas666/blob/main/gitartwork.svg" alt="GitHub Art Work"/>
 </p>
-
