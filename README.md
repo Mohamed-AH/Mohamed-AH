@@ -13,7 +13,8 @@ I'm passionate about building full-stack web applications with Node.js and creat
 * 💡 Active member of [100Devs](https://leonnoel.com/100devs/)
 
 ### 🎓 Certifications
-* 🏆 Certified Kubernetes Administrator (CKA) - [View Certificate](https://www.credly.com/badges/1495f4cc-1398-4256-9fb1-5dbeb3e41852/public_url)
+* 🏆 Certified Kubernetes Administrator (CKA) - [Credly Badge](https://www.credly.com/badges/1495f4cc-1398-4256-9fb1-5dbeb3e41852/public_url)
+*  Oracle Cloud Infrastructure 2024 Generative AI Certified Professional | [Oracle Certified Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2D72FF046B70B15A50F8E477DF5DF839924BB4119CD6C0B477B544E7389FB09E)
 
 ### 💻 Tech Stack
 - **Languages**: JavaScript, Python, Node.js
